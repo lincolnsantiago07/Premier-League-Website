@@ -30,19 +30,19 @@
 
 
 
-\* Exports predictions and compares with actual results.
+* Exports predictions and compares with actual results.
 
 
 
-\## 📈 Current performance
+## 📈 Current performance
 
 
 
-\* Before: ~27% accuracy.
+* Before: ~27% accuracy.
 
 
 
-\* Now: ~52% accuracy on 1X2 predictions.
+* Now: ~52% accuracy on 1X2 predictions.
 
 
 
